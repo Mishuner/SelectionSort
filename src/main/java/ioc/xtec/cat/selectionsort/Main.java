@@ -40,6 +40,8 @@ public static void main(String[] args) {
 
             System.out.print("Array ordenat:");
             printArray(array);
+            
+            System.out.println("He après molt fent el mòdul 8 de DAW encara que hagi estat dur. Moltes gràcies al professorat i a en Prudenci, l'aneguet de goma que tinc damunt l'escriptori!");
 
         } catch (IllegalArgumentException e) {
             System.out.println("Error: " + e.getMessage());
